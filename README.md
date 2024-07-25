@@ -14,7 +14,7 @@ This project is focused on performing a Cox model analysis utilizing a crossover
 
 ## Usage
 
-1. **Data Preparation**: Prepare your data according to the required format, ensuring it is clean and well-organized.
+1. **Data Preparation**: Prepare your data according to the required format, ensuring it is clean and well-organized. Check the synthetic data generated on the code for data format.
 2. **Running the Notebook**: Open and execute the Jupyter Notebook using the command:
    ```bash
    jupyter notebook cox_model_crossover.ipynb

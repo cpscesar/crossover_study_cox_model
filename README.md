@@ -34,8 +34,8 @@ This project is focused on performing a Cox model analysis utilizing a crossover
 
 ## Authors
 
-- **César Pedrosa Soares**
-- **Krishna Kolen**
+- **César Pedrosa Soares** (cpscesar@gmail.com)
+- **Krishna Kolen** (krishna.kolen@usask.ca)
 
 ## Contributing
 
